@@ -173,7 +173,7 @@ The full script, including all exploration, cleaning, and analysis queries, is i
 ```
 ├── data/
 │   └── zepto_v2.csv
-├── zepto_analysis.sql
+├── Ecommerce_SQL_analysis.sql
 └── README.md
 ```
 
